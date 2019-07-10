@@ -1,0 +1,13 @@
+@font-face {
+    font-family: ninja;
+    src:url('../font/ninja.ttf');
+}
+
+.ninja-font {
+	font-family: ninja;
+}
+
+body {
+	font-size: 1.2rem;
+	background-color: #eeeeee;
+}
